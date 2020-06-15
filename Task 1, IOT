@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<head>
+  <title>TASk 1</title>
+  <style>
+  p {
+position: absolute;
+           top: 40%;
+           left: 50%;
+           transform: translate(-50%,-50%);
+      }
+    body {
+      background-color: #FAEBD7;
+<head>
+  <title>TASK 1</title>
+  <style>
+    }
+    h3 {
+           background-color:red;
+           color: white;
+           position: absolute;
+           top: 66.5%;
+           left: 50%;
+           transform: translate(-50%,-50%);
+}
+    h1 {
+       position: absolute;
+           top: 66%;
+           left: 70%;
+           transform: translate(-50%,-50%);
+    }
+h2 {
+       position: absolute;
+           top: 66.5%;
+           left: 30%;
+           transform: translate(-50%,-50%);
+    }
+    h4 {
+      position: absolute;
+           top: 60%;
+           left: 50%;
+           transform: translate(-50%,-50%);
+    }
+      h5 {
+      position: absolute;
+           top: 72%;
+           left: 50%;
+           transform: translate(-50%,-50%);
+    }
+  </style>
+</head>
+<body>
+  <p>Hi!</p>
+ <h3> <input type="submit" value="STOP"></h3>
+</body> 
+<h1> <input type="submit" value="Right"></h1>
+<h2> <input type="submit" value=" Left "></h1>
+<h4><input type="submit" value=" Forwards "></h4>
+<h5><input type="submit" value="Backwards"></h5>
