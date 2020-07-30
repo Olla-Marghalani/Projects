@@ -1,0 +1,356 @@
+The code:
+import requests
+req = requests.get('https://s-m.com.sa/tr/d.html')
+print(req.text)
+
+The result:
+C:\Users\96653\AppData\Local\Programs\Python\Python38-32\python.exe C:/Users/96653/PycharmProjects/untitled/Task.py
+<!DOCTYPE html>
+<html dir="rtl">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="stylesheet" type="text/css" href="css/roboto-font.css">
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-5/css/fontawesome-all.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Cairo" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css"/>
+	<style>
+body  {
+  background-image: url("bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 100% 100%;
+
+}
+@media screen and (max-width: 767px) {
+
+	
+	.body{
+  background-image: url("bg.jpg");
+  background-repeat: no-repeat;
+
+  background-position: center;
+
+}
+}
+</style>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+</head>
+
+
+
+<body class="form-v5" >
+
+	<div class="page-content" >
+		<div class="form-v5-content" style="background-color:#e3fbff">
+			<div class="form-detail">
+			<a href="https://s-m.com.sa/"><img src="logo.png" class="logo"></a>
+			
+					
+		<a href="https://s-m.com.sa/tr/p1.pptx">
+		<h4 align="center" style="color:#85113d;">Ø¨ÙØ±Ø¨ÙÙÙØª Ø§ÙØ£Ø³Ø¨ÙØ¹ Ø§ÙØ£ÙÙ</h4>
+		</a>
+		
+				<a href="https://s-m.com.sa/tr/p2.pptx">
+		<h4 align="center" style="color:#85113d;">Ø¨ÙØ±Ø¨ÙÙÙØª Ø§ÙØ£Ø³Ø¨ÙØ¹ Ø§ÙØ«Ø§ÙÙ 1</h4>
+		</a>
+		
+				<a href="https://s-m.com.sa/tr/p3.pptx">
+		<h4 align="center" style="color:#85113d;">Ø¨ÙØ±Ø¨ÙÙÙØª Ø§ÙØ£Ø³Ø¨ÙØ¹ Ø§ÙØ«Ø§ÙÙ 2</h4>
+		</a>
+		
+					<a href="https://s-m.com.sa/tr/p4.pptx">
+		<h4 align="center" style="color:#85113d;">Ø¨ÙØ±Ø¨ÙÙÙØª Ø§ÙØ£Ø³Ø¨ÙØ¹ Ø§ÙØ«Ø§ÙØ« 1</h4>
+		</a>
+		
+		
+						<a href="https://s-m.com.sa/tr/p5.pptx">
+		<h4 align="center" style="color:#85113d;">Ø¨ÙØ±Ø¨ÙÙÙØª Ø§ÙØ£Ø³Ø¨ÙØ¹ Ø§ÙØ«Ø§ÙØ« 2</h4>
+		</a>
+		
+						<a href="https://s-m.com.sa/tr/p6.pptx">
+		<h4 align="center" style="color:#85113d;">Ø¨ÙØ±Ø¨ÙÙÙØª Ø§ÙØ£Ø³Ø¨ÙØ¹ Ø§ÙØ±Ø§Ø¨Ø¹ 1</h4>
+		</a>
+		
+		
+						<a href="https://s-m.com.sa/tr/p7.pptx">
+		<h4 align="center" style="color:#85113d;">Ø¨ÙØ±Ø¨ÙÙÙØª Ø§ÙØ£Ø³Ø¨ÙØ¹ Ø§ÙØ±Ø§Ø¨Ø¹ 2</h4>
+		</a>
+		
+		
+							<a href="https://s-m.com.sa/tr/p8.pptx">
+		<h4 align="center" style="color:#85113d;">Ø¨ÙØ±Ø¨ÙÙÙØª Ø§ÙØ£Ø³Ø¨ÙØ¹ Ø§ÙØ®Ø§ÙØ³ 1</h4>
+		</a>
+		
+		
+								<a href="https://s-m.com.sa/tr/p9.pptx">
+		<h4 align="center" style="color:#85113d;">Ø¨ÙØ±Ø¨ÙÙÙØª Ø§ÙØ£Ø³Ø¨ÙØ¹ Ø§ÙØ®Ø§ÙØ³  2</h4>
+		</a>
+		
+									<a href="https://s-m.com.sa/tr/p10.zip">
+		<h4 align="center" style="color:#85113d;">Ø¨ÙØ±Ø¨ÙÙÙØª Ø§ÙØ£Ø³Ø¨ÙØ¹ Ø§ÙØ³Ø§Ø¯Ø³ 1</h4>
+		</a>
+		
+							<a href="https://s-m.com.sa/tr/p11.pptx">
+		<h4 align="center" style="color:#85113d;">Ø¨ÙØ±Ø¨ÙÙÙØª Ø§ÙØ£Ø³Ø¨ÙØ¹ Ø§ÙØ³Ø§Ø¯Ø³ 2</h4>
+		</a>	
+
+						<a href="https://s-m.com.sa/tr/p12.zip">
+		<h4 align="center" style="color:#85113d;">ÙÙØ§Ø¡ Ø¨Ø±Ø§Ø¡Ø§Øª Ø§ÙØ§Ø®ØªØ±Ø§Ø¹</h4>
+		</a>	
+
+							<a href="https://s-m.com.sa/tr/p12.pptx">
+		<h4 align="center" style="color:#85113d;">Ø¨ÙØ±Ø¨ÙÙÙØª Ø§ÙØ£Ø³Ø¨ÙØ¹ Ø§ÙØ³Ø§Ø¨Ø¹ 1</h4>
+		</a>	
+		
+		
+		<br>
+				<h3 align="center" style="color:#85113d;">Ø§ÙØ¨Ø±Ø§ÙØ¬ Ø§ÙÙØ³ØªØ®Ø¯ÙØ© ÙÙ Ø§ÙØªØ¯Ø±ÙØ¨ Ø§ÙØµÙÙÙ</h3>
+				
+				
+				<h5 align="center" style="color:#000000;">Ø¨Ø±Ø§ÙØ¬ ÙØ³Ø§Ø± Ø§ÙØªØµÙÙÙ Ø§ÙÙÙÙØ§ÙÙÙÙ</h5>
+				
+		<a href="http://djidistributor.com/cn.rar">
+		<h5 align="center" style="color:#85113d;">Ø¨Ø±ÙØ§ÙØ¬ Ø³ÙÙÙØ§ 4 Ø¯Ù</h5>
+		</a>
+		
+		
+		
+			<a href="https://www.blender.org/download/">
+		<h5 align="center" style="color:#85113d;">Ø¨Ø±ÙØ§ÙØ¬ Ø¨ÙÙØ¯Ø±</h5>
+		</a>
+		
+		
+			<a href="https://www.tinkercad.com/">
+		<h5 align="center" style="color:#85113d;">ØªÙÙØ± ÙØ§Ø¯</h5>
+		</a>
+		
+		
+		<br>
+		
+		
+		
+					<h5 align="center" style="color:#000000;">ÙØ³Ø§Ø± Ø§ÙØ±ÙØ¨ÙØª ÙØ§ÙØ£Ø°Ø±Ø¹ Ø§ÙØ±ÙØ¨ÙØªÙØ©</h5>
+				
+		<a href="http://djidistributor.com/cn.rar">
+		<h5 align="center" style="color:#85113d;">Ø¨ÙØ¦Ø© ØªØ·ÙÙØ± Ø£Ø±Ø¯ÙÙÙÙ</h5>
+		</a>
+		
+		
+		
+			<a href="https://www.tinkercad.com/">
+		<h5 align="center" style="color:#85113d;">ØªÙÙØ± ÙØ§Ø¯</h5>
+		</a>
+		
+		
+			<a href="http://jeem2.com/arduino/">
+		<h5 align="center" style="color:#85113d;">ÙØªØ§Ø¨ Ø¨Ø±ÙØ¬Ø© Ø§ÙØ§Ø±Ø¯ÙÙÙÙ</h5>
+		</a>
+		
+		
+			<a href="http://simplyarduino.com/">
+		<h5 align="center" style="color:#85113d;">ÙØªØ§Ø¨ Ø§Ø±Ø¯ÙÙÙÙ Ø¨Ø¨Ø³Ø§Ø·Ø©</h5>
+		</a>
+		
+		<br>
+		
+		
+					<h5 align="center" style="color:#000000;">ÙØ³Ø§Ø± Ø§ÙØ°ÙØ§Ø¡ Ø§ÙØµÙØ§Ø¹Ù ÙÙ Ø§ÙØ±ÙØ¨ÙØªØ§Øª</h5>
+				
+				
+			<a href="https://www.virtualbox.org/wiki/Downloads">
+		<h5 align="center" style="color:#85113d;">VirtualBox</h5>
+		</a>
+		
+			<a href="https://ubuntu.com/download/desktop">
+		<h5 align="center" style="color:#85113d;">Linux Ubuntu OS</h5>
+		</a>
+		
+			<a href="http://wiki.ros.org/kinetic/Installation">
+		<h5 align="center" style="color:#85113d;">ROS OS</h5>
+		</a>
+		
+			<a href="https://www.udemy.com/course/ros-basics-program-robots/">
+		<h5 align="center" style="color:#85113d;">ROS Basics</h5>
+		</a>
+		
+		
+			<a href="https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system">
+		<h5 align="center" style="color:#85113d;">ROS Corse</h5>
+		</a>
+		
+		
+		<a href="https://www.python.org/downloads/">
+		<h5 align="center" style="color:#85113d;">Python</h5>
+		</a>
+		
+		
+		
+			<a href="https://opencv.org/">
+		<h5 align="center" style="color:#85113d;">Open CV</h5>
+		</a>
+		
+		
+			<a href="https://www.tensorflow.org/">
+		<h5 align="center" style="color:#85113d;"> Tenserflow</h5>
+		</a>
+		
+		<br>
+		
+		
+		
+		
+		<h5 align="center" style="color:#000000;">ÙØ³Ø§Ø± Ø§ÙØªØ±ÙØª Ø§ÙØ§Ø´ÙØ§Ø¡</h5>
+				
+		<a href="https://www.apachefriends.org/download.html">
+		<h5 align="center" style="color:#85113d;">XAMPP</h5>
+		</a>
+		
+		
+		
+			<a href="https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ">
+		<h5 align="center" style="color:#85113d;">Elzero Web School</h5>
+		</a>
+		
+		
+			<a href="https://www.ibm.com/watson">
+		<h5 align="center" style="color:#85113d;">IBM watson</h5>
+		</a>
+		
+		
+			<a href="https://appinventor.mit.edu/">
+		<h5 align="center" style="color:#85113d;">App Inventor</h5>
+		</a>
+		
+		
+				<a href="https://filezilla-project.org/">
+		<h5 align="center" style="color:#85113d;">Afile zilla</h5>
+		</a>
+		
+		
+		<br>
+		</div>
+
+			</div>
+		</div>
+	</div>
+	
+<br>
+				
+
+		
+			</div>
+		</div>
+	</div>
+	
+<script>
+document.getElementById("phone").addEventListener("change", myFunction);
+
+function myFunction() {
+var siv = document.getElementById("phone").value;
+
+
+  
+  var res = siv.charAt(0)
+  
+   var zero= "0";
+   var n = res.localeCompare(zero);
+   //alert(n);
+  if(n > 0 ||  siv.length < 10){
+  document.getElementById("phone").value = "";
+  alert("Ø±ÙÙ Ø§ÙÙØ§ØªÙ ØºÙØ± ØµØ­ÙØ­");
+  }
+  
+  
+ 
+  
+}
+</script>
+	
+
+	<script>
+var x, i, j, selElmnt, a, b, c;
+/*look for any elements with the class "custom-select":*/
+x = document.getElementsByClassName("custom-select");
+for (i = 0; i < x.length; i++) {
+  selElmnt = x[i].getElementsByTagName("select")[0];
+  /*for each element, create a new DIV that will act as the selected item:*/
+  a = document.createElement("DIV");
+  a.setAttribute("class", "select-selected");
+  a.innerHTML = selElmnt.options[selElmnt.selectedIndex].innerHTML;
+  x[i].appendChild(a);
+  /*for each element, create a new DIV that will contain the option list:*/
+  b = document.createElement("DIV");
+  b.setAttribute("class", "select-items select-hide");
+  for (j = 1; j < selElmnt.length; j++) {
+    /*for each option in the original select element,
+    create a new DIV that will act as an option item:*/
+    c = document.createElement("DIV");
+    c.innerHTML = selElmnt.options[j].innerHTML;
+    c.addEventListener("click", function(e) {
+        /*when an item is clicked, update the original select box,
+        and the selected item:*/
+        var y, i, k, s, h;
+        s = this.parentNode.parentNode.getElementsByTagName("select")[0];
+        h = this.parentNode.previousSibling;
+        for (i = 0; i < s.length; i++) {
+          if (s.options[i].innerHTML == this.innerHTML) {
+            s.selectedIndex = i;
+            h.innerHTML = this.innerHTML;
+            y = this.parentNode.getElementsByClassName("same-as-selected");
+            for (k = 0; k < y.length; k++) {
+              y[k].removeAttribute("class");
+            }
+            this.setAttribute("class", "same-as-selected");
+            break;
+          }
+        }
+        h.click();
+    });
+    b.appendChild(c);
+  }
+  x[i].appendChild(b);
+  a.addEventListener("click", function(e) {
+      /*when the select box is clicked, close any other select boxes,
+      and open/close the current select box:*/
+      e.stopPropagation();
+      closeAllSelect(this);
+      this.nextSibling.classList.toggle("select-hide");
+      this.classList.toggle("select-arrow-active");
+    });
+}
+function closeAllSelect(elmnt) {
+  /*a function that will close all select boxes in the document,
+  except the current select box:*/
+  var x, y, i, arrNo = [];
+  x = document.getElementsByClassName("select-items");
+  y = document.getElementsByClassName("select-selected");
+  for (i = 0; i < y.length; i++) {
+    if (elmnt == y[i]) {
+      arrNo.push(i)
+    } else {
+      y[i].classList.remove("select-arrow-active");
+    }
+  }
+  for (i = 0; i < x.length; i++) {
+    if (arrNo.indexOf(i)) {
+      x[i].classList.add("select-hide");
+    }
+  }
+}
+/*if the user clicks anywhere outside the select box,
+then close all select boxes:*/
+document.addEventListener("click", closeAllSelect);
+</script>
+	
+</body>
+</html>
+
+Process finished with exit code 0
+
